@@ -65,7 +65,7 @@ Fuel prices in Ireland change often and can be hard to track. Peitril uses crowd
 
 | Home Screen                          | Map View                         | Price Upload                            |
 | ------------------------------------ | -------------------------------- | --------------------------------------- |
-| ![Home Screen](screenshots/home.png) | ![Map View](screenshots/map.png) | ![Price Upload](screenshots/upload.png) |
+| ![Home Screen](https://github.com/user-attachments/assets/83ed7cbf-ad64-4388-9d5f-e6c4465985ca) | ![Map View](https://github.com/user-attachments/assets/f83a25c8-9d91-4f05-babd-2fd4061b62c8) | ![Price Upload](https://github.com/user-attachments/assets/e3378d64-f244-4d32-bf4b-fba5527995b0) |
 
 ---
 
