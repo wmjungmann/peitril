@@ -2,7 +2,7 @@
 
 *A crowd-sourced fuel-price tracker that helps drivers find the cheapest petrol/diesel nearby.*
 
-**Elevator pitch:** Peitril lets motorists snap a photo of a station’s price board, automatically extracts the prices using OCR, and shares them with everyone. The result is a live, community-powered map of fuel prices so you can pick the best stop before you drive.
+Peitril lets motorists snap a photo of a station’s price board, automatically extracts the prices using OCR, and shares them with everyone. The result is a live, community-powered map of fuel prices so you can pick the best stop before you drive.
 
 ---
 
